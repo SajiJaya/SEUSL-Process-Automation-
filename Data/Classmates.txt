@@ -1,0 +1,37 @@
+Persistenceid|Batch|RegistrationNumber|Name|address|EMail|Mobile
+1|16/17|SEU/IS/16/EG/078|YMWHMRPJRB Kiridana ||punsisikiridana@gmail.com|
+2|16/17|SEU/IS/16/EG/048|PLM Weerarathne||lakshikamadhushani85@gmail.com|
+4|16/17|SEU/IS/16/EG/060|WPDY Wijesinghe||wduhara123@gmail.com|
+5|16/17|SEU/IS/16/EG/016|LAYD Kumara||ydkliyanaarachchi@gmail.com|
+6|16/17|SEU/IS/16/EG/043|MCT Kumara||mrchamodatharindu@gmail.com|
+7|16/17|SEU/IS/16/EG/017|PSC Pushpakumari||sadhunikacharuni123@gmail.com|
+8|16/17|SEU/IS/16/EG/087|GKCR Kodikara||chaminridmail11@gmail.com|
+9|16/17|SEU/IS/16/EG/032|KPSN Karunanayake ||karunanayakesithara@gmail.com|
+10|16/17|SEU/IS/16/EG/037|AP Horanage||arunaph95@gmail.com|
+11|16/17|SEU/IS/16/EG/040|RGC Madhusanka||chathuzzz1@gmail.com|
+12|16/17|SEU/IS/16/EG/042|WTI Wijesinghe||tharinduishan.2015@gmail.com|
+13|16/17|SEU/IS/16/EG/052|MBDL Bandara||dilinalb@gmail.com|
+14|16/17|SEU/IS/16/EG/062|JALP jayakodi||lahiruprabhath099@gmail.com|
+15|16/17|SEU/IS/16/EG/077|GGSD Jayamali||djsumudu20@gmail.com|
+16|16/17|SEU/IS/16/EG/012|K.M.S.S.Bandara||sudeshsudeera@gmail.com|
+17|16/17|SEU/IS/16/EG/029|W.T.C.C.Kurera||terancekurera2@gmail.com|
+18|16/17|SEU/IS/16/EG/039|W.K.D.S.A.Hirushan||shamikaachila123@gmail.com|
+19|16/17|SEU/IS/16/EG/056|M.Isuru Ayeshmantha||Isuru1997padalangala@gmail.com|
+20|16/17|SEU/IS/16/EG/076|K.J.Hewanadugala||kasunnadugala@gmail.com|
+21|16/17|SEU/IS/16/EG/082|B.L.S.M.Dilshan||madhusankasuren@gmail.com|
+22|16/17|SEU/IS/16/EG/086|M.G.S.P.Thilakarathna||sachinipoornimat@gmail.com|
+23|16/17|SEU/IS/16/EG/008|H.W.S.K. Piyarathna||sanjeewaweerage@gmail.com|
+24|16/17|SEU/IS/16/EG/013|D.C.S. Dissanayake||sarithachathumini40@gmail.com|
+25|16/17|SEU/IS/16/EG/014|R.A.H.Madhubhashana||rahmadhubhashana@gmail.com|
+26|16/17|SEU/IS/16/EG/018|W.G.V.K.Wakkumbura||wgvkwakkumbura1669@gmail.com|
+27|16/17|SEU/IS/16/EG/047|K.L.P.S. Keerthirathna||pivithirushashadhara@gmail.com|
+28|16/17|SEU/IS/16/EG/073|J.A.Y.V.Jayakodi||yasinduviran123@gmail.com|
+29|16/17|SEU/IS/16/EG/075|I.K.B.Yehani||bimyehani@gmail.com|
+30|16/17|SEU/IS/16/EG/053|I.P.A.Kalindu||anjanakalindu96@gmail.com|
+31|16/17|SEU/IS/16/EG/068|S.A.I.Shamilka||isurushamilka@gmail.com|
+32|16/17|SEU/IS/16/EG/070|YWADJ.samaranayaka||ywdinesh@gmail.com|
+33|16/17|SEU/IS/16/EG/067|LPAS.Jayarathna||Lpasajijayarathna@gmail.com 
+|
+34|16/17|SEU/IS/16/EG/025|W.M.L. Erandika||erandikalahiru7@gmail.com|
+35|16/17|SEU/IS/16/EG/036|G.Nishanthan|||
+36|16/17|SEU/IS/16/EG/021|HMTI Kumarasiri ||tikumarasiri96@gmail.com|

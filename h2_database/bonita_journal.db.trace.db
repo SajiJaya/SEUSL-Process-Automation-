@@ -1,0 +1,6 @@
+2021-09-07 23:14:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SEQUENCE" not found; SQL statement:
+select count(*) from sequence [42102-199]
+2021-09-07 23:14:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SEQUENCE" not found; SQL statement:
+select count(*) from sequence [42102-199]

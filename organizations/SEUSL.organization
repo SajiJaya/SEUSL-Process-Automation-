@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1" name="SEUSL" description="The ACME organization is an example of a typical hierarchy. It can be used for development.">
+  <customUserInfoDefinitions>
+    <customUserInfoDefinition>
+      <name>Information1</name>
+      <description></description>
+    </customUserInfoDefinition>
+  </customUserInfoDefinitions>
+  <users>
+    <user userName="SM..Junaideen">
+      <firstName>SM</firstName>
+      <lastName>Junaideen</lastName>
+      <title>Dr.</title>
+      <jobTitle>Dean,Faculty of Engineering</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues>
+        <customUserInfoValue>
+          <name>Information1</name>
+          <value></value>
+        </customUserInfoValue>
+      </customUserInfoValues>
+    </user>
+    <user userName="Mahinda.Alahakoon">
+      <firstName>Mahinda</firstName>
+      <lastName>Alahakoon</lastName>
+      <title>Dr.</title>
+      <jobTitle>HOD Electrical</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues>
+        <customUserInfoValue>
+          <name>Information1</name>
+          <value></value>
+        </customUserInfoValue>
+      </customUserInfoValues>
+    </user>
+    <user userName="Aruna">
+      <firstName>Aruna</firstName>
+      <lastName>Aruna</lastName>
+      <manager></manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues>
+        <customUserInfoValue>
+          <name>Information1</name>
+          <value></value>
+        </customUserInfoValue>
+      </customUserInfoValues>
+    </user>
+    <user userName="Shiran.Pradeep">
+      <firstName>Shiran</firstName>
+      <lastName>Pradeep Jayakody</lastName>
+      <title>Dr,</title>
+      <jobTitle>HOD Civil </jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues>
+        <customUserInfoValue>
+          <name>Information1</name>
+          <value></value>
+        </customUserInfoValue>
+      </customUserInfoValues>
+    </user>
+    <user userName="Abdul.Majeed">
+      <firstName>Abdul </firstName>
+      <lastName>Majeed Muzathik</lastName>
+      <title>Prof. (Dr.)</title>
+      <jobTitle>HOD Mechanical</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues>
+        <customUserInfoValue>
+          <name>Information1</name>
+          <value></value>
+        </customUserInfoValue>
+      </customUserInfoValues>
+    </user>
+    <user userName="Dinesh">
+      <firstName>Dinesh</firstName>
+      <lastName>Dinesh</lastName>
+      <manager></manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues>
+        <customUserInfoValue>
+          <name>Information1</name>
+          <value></value>
+        </customUserInfoValue>
+      </customUserInfoValues>
+    </user>
+  </users>
+  <roles>
+    <role name="Deputy Registrar">
+      <displayName>Deputy Registrar</displayName>
+      <description>Diputy Registrar or Senior Assistant Registrar of FE</description>
+    </role>
+    <role name="Head Of Department">
+      <displayName>Head Of Department</displayName>
+      <description>The head of each departments</description>
+    </role>
+    <role name="Undergraduate">
+      <displayName>Undergraduate</displayName>
+      <description>All undergratuates</description>
+    </role>
+    <role name="Dean of Faculty of Engineering">
+      <displayName>Dean of Faculty of Engineering</displayName>
+    </role>
+  </roles>
+  <groups>
+    <group name="South Eastern University of Sri Lanka">
+      <displayName>SEUSL</displayName>
+      <description>Oranization:South Eastern University of Sri Lanka </description>
+    </group>
+    <group name="Faculty Of Engineering" parentPath="/South Eastern University of Sri Lanka">
+      <displayName>FE</displayName>
+      <description>Sub Org : Faculty Of Engineering</description>
+    </group>
+    <group name="ElectricaL Department" parentPath="/South Eastern University of Sri Lanka/Faculty Of Engineering">
+      <displayName>ELectricaL Department</displayName>
+      <description></description>
+    </group>
+    <group name="Mechanical Department" parentPath="/South Eastern University of Sri Lanka/Faculty Of Engineering">
+      <displayName>Mechanical Department</displayName>
+    </group>
+    <group name="Civil Department" parentPath="/South Eastern University of Sri Lanka/Faculty Of Engineering">
+      <displayName>Civil Department</displayName>
+    </group>
+  </groups>
+  <memberships>
+    <membership>
+      <userName>SM..Junaideen</userName>
+      <roleName>Dean of Faculty of Engineering</roleName>
+      <groupName>Faculty Of Engineering</groupName>
+      <groupParentPath>/South Eastern University of Sri Lanka</groupParentPath>
+    </membership>
+    <membership>
+      <userName>Mahinda.Alahakoon</userName>
+      <roleName>Head Of Department</roleName>
+      <groupName>ElectricaL Department</groupName>
+      <groupParentPath>/South Eastern University of Sri Lanka/Faculty Of Engineering</groupParentPath>
+    </membership>
+    <membership>
+      <userName>Aruna</userName>
+      <roleName>Undergraduate</roleName>
+      <groupName>Faculty Of Engineering</groupName>
+      <groupParentPath>/South Eastern University of Sri Lanka</groupParentPath>
+    </membership>
+    <membership>
+      <userName>Shiran.Pradeep</userName>
+      <roleName>Head Of Department</roleName>
+      <groupName>Civil Department</groupName>
+      <groupParentPath>/South Eastern University of Sri Lanka/Faculty Of Engineering</groupParentPath>
+    </membership>
+    <membership>
+      <userName>Abdul.Majeed</userName>
+      <roleName>Head Of Department</roleName>
+      <groupName>Mechanical Department</groupName>
+      <groupParentPath>/South Eastern University of Sri Lanka/Faculty Of Engineering</groupParentPath>
+    </membership>
+    <membership>
+      <userName>Dinesh</userName>
+      <roleName>Undergraduate</roleName>
+      <groupName>Faculty Of Engineering</groupName>
+      <groupParentPath>/South Eastern University of Sri Lanka</groupParentPath>
+    </membership>
+  </memberships>
+</organization:Organization>
